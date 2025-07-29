@@ -4,6 +4,9 @@ div{
 	top:50%;
 	left:50%;
 	background-color:lightblue;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
 	width:200px;
 	height:200px;
 	transform:translate(-50%,-50%);
